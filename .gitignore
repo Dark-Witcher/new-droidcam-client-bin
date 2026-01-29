@@ -1,0 +1,16 @@
+# makepkg build directories
+src/
+pkg/
+
+# built packages
+*.pkg.tar.zst
+*.pkg.tar.xz
+
+# makepkg logs
+*.log
+
+# editor / OS noise
+*.swp
+*.swo
+*.bak
+.DS_Store
