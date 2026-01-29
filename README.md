@@ -21,6 +21,6 @@ It repackages the **new Qt-based DroidCam client** provided upstream as a `.deb`
 ## Build & Install
 
 ```bash
-git clone https://github.com/<yourname>/droidcam-client-bin.git
+git clone https://github.com/Dark-Witcher/droidcam-client-bin.git
 cd droidcam-client-bin
 makepkg -si
